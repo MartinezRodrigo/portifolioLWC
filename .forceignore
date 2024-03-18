@@ -3,6 +3,8 @@
 #
 
 package.xml
+AppSwitcher.appMenu
+force-app/main/default/dashboards/prm_channel_dashboard_folder
 
 # LWC configuration files
 **/jsconfig.json
